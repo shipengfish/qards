@@ -12,6 +12,7 @@ isPage: false
 isFeatured: false
 hero:
   alt: h
+  image: /images/uploads/logo.png
 excerpt: h
 ---
 h
