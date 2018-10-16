@@ -1,18 +1,18 @@
 {
   "tracking": {
-    "enable": false,
+    "enable": true,
     "analytics": {
-      "trackingId": ""
+      "trackingId": "UA-82077243-5"
     }
   },
   "emailSubscribers": {
-    "enable": false,
+    "enable": true,
     "mailchimp": {
       "endpoint": ""
     }
   },
   "search": {
-    "enable": false,
+    "enable": true,
     "algolia": {
       "appId": "",
       "indexName": "",
