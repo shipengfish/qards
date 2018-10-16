@@ -6,7 +6,7 @@
     }
   },
   "emailSubscribers": {
-    "enable": true,
+    "enable": false,
     "mailchimp": {
       "endpoint": ""
     }
