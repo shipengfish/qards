@@ -1,9 +1,9 @@
 ---
-title: learning lovers
+title: 再见孙悟空
 excerpt: |-
-  *学习热爱者*
+  Software Programmer for over 4 years.
 
-  微信公众号 `学习热爱者`
-avatar: /images/uploads/2016-05-18_12-15-19.jpg
+  可关注微信公众号 *【学习热爱者】*
+avatar: /images/uploads/programer.png
 ---
 
