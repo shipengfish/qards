@@ -15,6 +15,7 @@ hero:
   image: /images/uploads/java.png
 excerpt: java
 ---
+
 ### 你真的会用 `HashMap` 吗？
 
 ### `HashMap` 的数据结构
