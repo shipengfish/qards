@@ -1,9 +1,9 @@
 {
-  "name": "qards",
-  "title": "Qards - the blogging platform for professionals",
-  "excerpt": "Qards is a blogging platform for professionals",
+  "name": "学习热爱者",
+  "title": "学习热爱者 - 一个热爱学习的人👨‍💻‍",
+  "excerpt": "记录一个程序员的学习和生活",
   "baseUrl": "https://affectionate-hamilton-12254a.netlify.com",
   "performanceMode": false,
-  "logo": "/images/uploads/logo.png",
-  "socialShareImg": "/images/uploads/andrew-ridley-76547-unsplash.jpg"
+  "logo": "/images/uploads/programer.png",
+  "socialShareImg": "/images/uploads/programer.png"
 }
