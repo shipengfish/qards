@@ -1,11 +1,11 @@
 ---
-title: Program
-excerpt: Program !
+title: Programing
+excerpt: Program
 header:
-  alt: Program !
+  alt: Programing
   image: /images/uploads/andrew-ridley-76547-unsplash.jpg
   meta:
-    description: 'Program '
-    keywords: Program
+    description: Programing
+    keywords: Programing
 ---
 
