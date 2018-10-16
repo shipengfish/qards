@@ -1,5 +1,5 @@
 ---
-title: Life
+title: life
 excerpt: 记录一些日常
 header:
   alt: life
