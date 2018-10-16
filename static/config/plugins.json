@@ -12,7 +12,7 @@
     }
   },
   "search": {
-    "enable": true,
+    "enable": false,
     "algolia": {
       "appId": "",
       "indexName": "",
@@ -20,6 +20,6 @@
     }
   },
   "rssFeed": {
-    "enable": true
+    "enable": false
   }
 }
